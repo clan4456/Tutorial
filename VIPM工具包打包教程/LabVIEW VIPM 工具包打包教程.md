@@ -68,7 +68,7 @@ Common项目包含用于前面板的控件和用于后面板的函数模块，�
 
 - `Install Requirements` - 安装环境要求
 
-- `Incmpatible Packages` - 不兼容工具包配置
+- `Incompatible Packages` - 不兼容工具包配置
 
 - `Custom Actions` - 安装/卸载的前/后操作
 
@@ -204,7 +204,7 @@ Common项目包含用于前面板的控件和用于后面板的函数模块，�
 
 如上图所示，该页面主要用于设置工具包的安装环境要求。一般保持默认即可。
 
-#### 3.3.10. `Incmpatible Packages` - 不兼容工具包配置
+#### 3.3.10. `Incompatible Packages` - 不兼容工具包配置
 
 ![图20](Pic/020.png "图20-不兼容工具包配置")
 
