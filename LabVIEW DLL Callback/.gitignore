@@ -1,0 +1,4 @@
+*.log
+.idea/
+.vscode/
+cmake-build-debug-msvc2022_x86/
